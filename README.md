@@ -1,19 +1,19 @@
 ## 💫 About Me
 
 🔭 **Currently Working On**  
-Building backend applications using Java, focusing on clean architecture and scalable system design.
+Building backend applications using Java, with a focus on clean code and practical development.
 
 🤝 **Looking to Collaborate On**  
-Open-source projects and real-world applications related to backend development, APIs, and system design.
+Open-source projects and real-world applications related to backend development and APIs.
 
 🆘 **Seeking Help With**  
-Advanced system design concepts and writing production-grade, optimized code.
+Writing optimized, production-quality code and strengthening problem-solving skills.
 
 🌱 **Currently Learning**  
-Data Structures & Algorithms, system design, and backend technologies to build efficient and scalable applications.
+Data Structures & Algorithms and backend technologies to build efficient and reliable applications.
 
 💬 **Ask Me About**  
-Java, OOP, DSA, backend fundamentals, and problem-solving approaches.
+Java, OOP, DSA, backend fundamentals, and problem-solving strategies.
 
 
 # 💻 Tech Stack
