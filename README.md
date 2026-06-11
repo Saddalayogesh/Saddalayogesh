@@ -17,10 +17,14 @@
 ![](https://github-readme-stats.shion.dev/api?username=saddalayogesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 </td>
-</tr>
-</table>
+<td>
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=saddalayogesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</td>
+</tr>
+</table>
 ```
+
 
 
