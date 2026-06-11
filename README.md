@@ -11,9 +11,13 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=saddalayogesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="47%" />
-  <img src="https://streak-stats.demolab.com/?user=saddalayogesh&theme=dark&hide_border=false" width="47%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=saddalayogesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
+  &nbsp;
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=saddalayogesh&theme=dark&hide_border=false" width="48%" />
 </p>
+
+
 
 
 
