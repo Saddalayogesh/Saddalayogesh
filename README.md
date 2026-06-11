@@ -10,20 +10,10 @@
 
 # 📊 GitHub Stats:
 
-<table>
-<tr>
-<td>
-
-![](https://github-readme-stats.shion.dev/api?username=saddalayogesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-</td>
-<td>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=saddalayogesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=saddalayogesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=saddalayogesh&theme=dark&hide_border=false" width="49%" />
+</p>
 ```
 
 
